@@ -4,5 +4,6 @@ I created this project purely for fun and personal enjoyment, driven not only by
 
 Currently, the project features the most basic design for a Clicker, consisting of two buttons for upgrades and a simple click animation. However, it remains a work in progress, with further developments underway.
 
-
+Screenshots:
 ![image](https://github.com/AdrianMarczak/Clicker/assets/166059177/66827d65-c1da-4bd7-b0fd-f81e5fac8bde)
+![image](https://github.com/AdrianMarczak/Clicker/assets/166059177/c3cc2cfc-edba-4205-9382-aae757f93d45)
