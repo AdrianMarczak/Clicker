@@ -1,0 +1,34 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Clicker"
+run/main_scene="res://clicker.tscn"
+config/features=PackedStringArray("4.0", "Mobile")
+boot_splash/bg_color=Color(0.0588235, 0.0588235, 0.0705882, 1)
+boot_splash/image="res://Sprites/Goblinbig.png"
+boot_splash/fullsize=false
+boot_splash/use_filter=false
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=648
+window/size/viewport_height=1152
+window/size/mode=3
+window/handheld/orientation=1
+
+[rendering]
+
+renderer/rendering_method="mobile"
+textures/vram_compression/import_etc2_astc=true
+environment/defaults/default_clear_color=Color(0.254902, 0.341176, 0.364706, 1)
+textures/canvas_textures/default_texture_filter=0

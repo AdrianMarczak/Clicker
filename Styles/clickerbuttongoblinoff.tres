@@ -1,0 +1,7 @@
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://c7upijhw1d262"]
+
+[ext_resource type="Texture2D" uid="uid://dx0rbvvwp42n7" path="res://Sprites/Goblin1.png" id="1_2mvfl"]
+
+[resource]
+texture = ExtResource("1_2mvfl")
+region_rect = Rect2(-40, -80, 110, 190)
