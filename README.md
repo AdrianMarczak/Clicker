@@ -5,4 +5,4 @@ I created this project purely for fun and personal enjoyment, driven not only by
 Currently, the project features the most basic design for a Clicker, consisting of two buttons for upgrades and a simple click animation. However, it remains a work in progress, with further developments underway.
 
 
-![Alt text](/relative/path/to/screenshot_clicker 1.jpg?raw=true "Optional Title")
+![Alt text](/screenshot_clicker 1.jpg?raw=true "Optional Title")
